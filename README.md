@@ -25,4 +25,4 @@ See also, for fun:
 
 ### License
 
-All our code is free to re-use under the GPL v2 license, which just means you have to make yours available in the same way. If you make use of any of it in your research, please cite us at this website, and as *[Marshall et al, (2015)][http://arxiv.org/abs/1504.06148]*. Please do get in touch though - it would be great to collaborate on improving the SWAP analysis, for example!
+All our code is free to re-use under the GPL v2 license, which just means you have to make yours available in the same way. If you make use of any of it in your research, please cite us at this website, and as *[Marshall et al, (2015)](http://arxiv.org/abs/1504.06148)*. Please do get in touch though - it would be great to collaborate on improving the SWAP analysis, for example!
