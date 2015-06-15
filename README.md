@@ -3,12 +3,12 @@ Space Warps
 
 Crowd-sourced discovery of gravitational lenses. We are a Zooniverse project, 
 which launched in Spring 2013 at **[http://spacewarps.org](http://spacewarps.org)**. This repository contains code and documentation
-being developed by the science team.
+being developed by the science team. The simulated lenses used in the training sample are created with [SIMCT](https://github.com/anupreeta27/SIMCT)
+
 
 Training webpages are visible (but pretty old at this point) 
 [here](http://drphilmarshall.github.com/SpaceWarps/).
 
-The simulated lenses used in the training sample were created with [SIMCT](https://github.com/anupreeta27/SIMCT)
 
 The web app itself is being developed **[here](https://github.com/zooniverse/Lens-Zoo)** as part of the **[Zooniverse](http://zooniverse.org)** project. If you are interested in building a site like Space Warps using Zooniverse techology, keep an eye on their website or drop them a line.
 
